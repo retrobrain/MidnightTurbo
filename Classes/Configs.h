@@ -9,7 +9,7 @@ USING_NS_CC;
 //Some consts used in the game
 
 //MAIN_SETTINGSz
-#define DESKTOP
+//#define DESKTOP
 extern Size designResolutionSize;
 
 extern float screenScale;
