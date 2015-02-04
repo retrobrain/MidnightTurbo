@@ -2,7 +2,7 @@ MidnightTurbo
 =============
 
 ## YouTube presentation
-http://youtu.be/gHWSwzs_z0g
+https://www.youtube.com/watch?v=hrCIuilkwtA
 
 ## Linux project 
 1. Build with CMakeLists.txt
